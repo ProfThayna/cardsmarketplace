@@ -1,24 +1,26 @@
-# cards-market
+# Projeto Marketplace de cartas desenvolvido para teste usando Vue3 e Tailwind
 
-## Project setup
-```
-npm install
-```
+## Requirements
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Vue3
+- npm (Node Package Manager)
+- Tailwind CSS
+- Axios
+- Vue Router
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Follow these steps to set up the server:
 
-### Lints and fixes files
+1. **Clone the repository**
 ```
-npm run lint
+   git clone
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2. **Install Dependencies**
+```
+   npm install
+```
+
+3. **Start the Server**
+```
+   npm run serve
+```
